@@ -1,1 +1,4 @@
 # Customer-Review-Analysis---Excel-Pivot
+Tech Stack: Excel, Data Analysis
+
+Analyzed customer review data using Excel-based sentiment analysis techniques to classify feedback into positive, neutral, and negative categories. Performed data cleaning and preprocessing by removing duplicates, handling missing values, and organizing unstructured text data for accurate analysis. Applied topic modeling and keyword analysis techniques to identify recurring customer concerns, product improvement areas, and frequently discussed themes. Built interactive dashboards using Pivot Tables, Charts, Slicers, and Conditional Formatting to visualize customer satisfaction trends and feedback patterns effectively. Generated actionable business insights that helped understand customer behavior, improve decision-making, and support product enhancement strategies through data-driven analysis and reporting.
